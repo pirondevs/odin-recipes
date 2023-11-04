@@ -8,10 +8,8 @@
  background-color: black;
  text-align: center;
  margin-top: 1px,
- margin-bottom: 1px;
  margin-left: auto;
- margin-right: auto;
-}
+} 
 
 #anc1{
  background-color: black;
@@ -25,8 +23,12 @@
  display: block;
 }
 
-.container { 
- background-color: black;
- color:beige;
- text-align: center;
+#container, ul, li, h3, h2, ol,a{  
+background-color: black;
+color: beige;
 }
+
+b{
+background-color: black;
+}
+
